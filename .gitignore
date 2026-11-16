@@ -2,8 +2,6 @@
 .DS_Store
 .claude/
 
-build/
-# outputs/
 target/
 
 master-slave/source-code/concept/asynchronous-mpi_openmp
